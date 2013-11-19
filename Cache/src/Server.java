@@ -1,6 +1,7 @@
 
 public class Server {
-	
+
+	//mock server
 	private String p1 = "html><head><title>";
 	private String p2 = "</title></head><body><p>";
 	private String p3 = "</p></body></html>";
